@@ -1,23 +1,53 @@
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/aamohame" alt="aamohame's 42 stats" /></a>
-</div>
+# Mohamed Aaboud
+
+AI-focused Software Engineering Student @ 1337 (42 Network)
+
+I build machine learning systems, embedding-based pipelines, and production-oriented AI workflows.  
+Strong foundation in algorithms, C programming, and systems-level engineering applied to modern AI systems.
 
 ---
 
-<div align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aamohmd&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/aamohame/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/756218396734914670" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
-  </a>
-  <a href="https://www.behance.net/aaboudmohamed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="Behance" />
-  </a>
-</div>
+## Focus Areas
 
+- Machine Learning pipelines  
+- Transformer-based embeddings  
+- Retrieval & semantic search systems  
+- Convolutional Neural Networks (CNNs)  
+- Practical LLM applications  
 
+---
+
+## Tech Stack
+
+**Languages**  
+Python · C · C++ · SQL · Bash  
+
+**ML & AI**  
+TensorFlow · Transformers · CNNs · Vector Embeddings · Scikit-Learn  
+
+**Systems**  
+Linux · Docker · Git  
+
+**Core Concepts**  
+Algorithms · Data Structures · Gradient Descent · Semantic Search  
+
+---
+
+## Featured Projects
+
+### Content-Based Recommendation System
+Semantic retrieval engine using transformer embeddings and cosine similarity.
+
+### CIFAR-10 Image Classification (VGG-16)
+CNN implementation with training, evaluation, and hyperparameter tuning.
+
+### Linear Regression from Scratch
+Manual gradient descent implementation without high-level ML abstractions.
+
+---
+
+## Connect
+
+Portfolio: https://www.aamoha.me  
+LinkedIn: https://www.linkedin.com/in/aamohame/  
+Email: aaboudm16@gmail.com
