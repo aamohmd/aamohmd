@@ -2,52 +2,33 @@
 
 AI-focused Software Engineering Student @ 1337 (42 Network)
 
-I build machine learning systems, embedding-based pipelines, and production-oriented AI workflows.  
-Strong foundation in algorithms, C programming, and systems-level engineering applied to modern AI systems.
+Building machine learning systems, embedding-based pipelines, and practical AI workflows.
 
 ---
 
-## Focus Areas
+## 🌐 Socials
 
-- Machine Learning pipelines  
-- Transformer-based embeddings  
-- Retrieval & semantic search systems  
-- Convolutional Neural Networks (CNNs)  
-- Practical LLM applications  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/aamohame)
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-**Languages**  
-Python · C · C++ · SQL · Bash  
-
-**ML & AI**  
-TensorFlow · Transformers · CNNs · Vector Embeddings · Scikit-Learn  
-
-**Systems**  
-Linux · Docker · Git  
-
-**Core Concepts**  
-Algorithms · Data Structures · Gradient Descent · Semantic Search  
-
----
-
-## Featured Projects
-
-### Content-Based Recommendation System
-Semantic retrieval engine using transformer embeddings and cosine similarity.
-
-### CIFAR-10 Image Classification (VGG-16)
-CNN implementation with training, evaluation, and hyperparameter tuning.
-
-### Linear Regression from Scratch
-Manual gradient descent implementation without high-level ML abstractions.
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ---
 
-## Connect
+## 📊 GitHub Stats
 
-Portfolio: https://www.aamoha.me  
-LinkedIn: https://www.linkedin.com/in/aamohame/  
-Email: aaboudm16@gmail.com
+![](https://github-readme-stats.vercel.app/api?username=aamohmd&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aamohmd&theme=radical&hide_border=true&layout=compact)
