@@ -29,20 +29,11 @@ Building machine learning systems, embedding-based pipelines, and practical AI w
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-fast.vercel.app/api?username=aamohmd&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  />
-  
-  <img
-    height="180em"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aamohmd&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aamohmd&theme=github-dark&hide_border=true"
-  />
-</p>
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=aamohmd&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aamohmd&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+<img height="180em" src="https://streak-stats.demolab.com?user=aamohmd&theme=github-dark&hide_border=true&background=00000000" />
+
+</div>
